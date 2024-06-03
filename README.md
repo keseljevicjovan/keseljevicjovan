@@ -1,2 +1,2 @@
 ## My skills 💪
-[![My Skills](https://skillicons.dev/icons?i=c,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,c,vim,git)](https://skillicons.dev)
