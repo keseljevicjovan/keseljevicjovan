@@ -1,1 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,c,vim,git,bash)](https://skillicons.dev)
+- [Suckless](https://github.com/keseljevicjovan/suckless.git), because it [sucks less](https://suckless.org/philosophy/)
+- I use arch btw
+- [Dotfiles](https://github.com/keseljevicjovan/dotfiles.git)
+- [Nothing better than C](https://www.youtube.com/watch?v=s71qdpvd8xI)
